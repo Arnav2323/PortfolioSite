@@ -1,0 +1,37 @@
+*{
+    color: #FEE715FF;
+    font-family: "Courier New", "Lucida Console", "Monospace";
+    text-decoration: none;
+}
+
+header{
+    background-color: #101820FF;
+}
+
+body{
+    background-color: #101820FF;
+}
+
+#Navbar{
+    text-align: center;
+    align-items: center;
+    list-style: none;
+    display: inline-flex;
+    gap: 5em;
+    position: fixed;
+    text-align: center;
+
+}
+
+a{
+    opacity: 0.5;
+}
+
+a:hover{
+    opacity: 1;
+}
+
+
+
+
+
